@@ -1,4 +1,4 @@
-```markdown
+
 # 📚 StudyZen – AI-Powered Study Planner & Smart Note-Taking Assistant  
 
 ## 🚀 Overview  
