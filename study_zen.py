@@ -143,6 +143,6 @@ st.markdown("""
     🌸 Let StudyZen be your partner in achieving academic excellence. Every step forward is a step towards your goals. 🌸
 </p>
 <p style='text-align: center; font-size: 22px; font-weight: bold;'>
-    💙 Made with love and dedication by [Your Name/Brand] 🙏
+    💙 Made with love and dedication by [U*K-T] 🙏
 </p>
 """, unsafe_allow_html=True)
