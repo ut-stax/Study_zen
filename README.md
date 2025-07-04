@@ -19,8 +19,7 @@
 
 ## 🚀 Live Demo
 
-**[👉 Try the App (Streamlit Cloud Link)]([https://mansaroa-crousmkd238bqdjfu7giu4.streamlit.app/](https://studyzen-3z4yfrs3jre8madxx7dwxo.streamlit.app/))**  
-
+👉 [Try the App on Streamlit Cloud](https://studyzen-3z4yfrs3jre8madxx7dwxo.streamlit.app/)
 ---
 
 ## 📸 Screenshots
