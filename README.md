@@ -17,6 +17,26 @@
 
 ---
 
+## 🚀 Live Demo
+
+**[👉 Try the App (Streamlit Cloud Link)]([https://mansaroa-crousmkd238bqdjfu7giu4.streamlit.app/](https://studyzen-3z4yfrs3jre8madxx7dwxo.streamlit.app/))**  
+
+---
+
+## 📸 Screenshots
+
+1. **Working:**
+     
+    ![Working](./Screenshot%202025-07-04%20175159.png)
+
+2. **Working:**
+     
+    ![Working](./Screenshot%202025-07-04%20174948.png)
+
+
+
+---
+
 ## 🏗️ Tech Stack  
 
 ⚡ **Programming Language:** Python
